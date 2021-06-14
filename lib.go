@@ -7,6 +7,6 @@ import (
 )
 
 func Visit() {
-	fmt.Println("C 1.1.0")
+	fmt.Println("C 1.2.0")
 	D.Visit()
 }
